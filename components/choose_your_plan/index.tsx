@@ -4,6 +4,7 @@ export function ChooseYourPlan() {
 
     return(
         <div
+            id="choose-your-plan-container"
             className="py-12"
         >
             <div
